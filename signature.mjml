@@ -1,0 +1,47 @@
+<mjml>
+  <mj-body>
+    <mj-section padding-bottom="0px">
+      <mj-column >
+        <mj-text font-size="10px" color="#906d4f" font-family="Helvetica" padding-bottom="0">Regards,</mj-text>
+        <mj-text font-size="12px" color="#906d4f" font-family="Times" letter-spacing="1.5px" padding-bottom="0">BRIAN WOULFE</mj-text>
+        <mj-text font-size="12px" color="#906d4f" font-family="Times" letter-spacing="0.5px" font-style="italic" padding-bottom="0" padding-top="2px" >Managing Director</mj-text>
+        <mj-text font-size="12px" color="#906d4f" font-family="Times" padding-bottom="0">t: &nbsp;&nbsp; +44 (0) 20 3957 9863</mj-text> 
+        <mj-text font-size="12px" color="#906d4f" font-family="Times" padding-top="0" padding-bottom="10px" padding-top="2px">m: &nbsp;+44 (0) 7482 825 662</mj-text>
+        <mj-text font-size="10px" color="#906d4f" font-family="Helvetica" padding-bottom="0">71-75 Shelton Street, Covent Garden</mj-text>
+          <mj-text font-size="10px" color="#906d4f" font-family="Helvetica" padding-bottom="0" padding-top="2px">London, WC2H 9JQ, United Kingdom</mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="#906d4f" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="white">
+
+      <!-- Left image -->
+      <mj-column >
+        <mj-image align="left" width="350px" src="http://www.designedbywoulfe.com/mail_signature/images/logo_df1.png" />
+         <mj-text font-size="10px" color="#906d4f" font-family="Times" letter-spacing="0px" padding-bottom="0" padding-top="2px">© 2020 DESIGNED BY WOULFE | LEGAL</mj-text>
+        
+      </mj-column>
+
+      <!-- right paragraph -->
+      <mj-column>
+        <mj-image align="left" src="http://www.designedbywoulfe.com/mail_signature/images/awards_2.png" />
+        <mj-text font-size="12px" color="#906d4f" font-family="Helvetica" letter-spacing="0px" padding-bottom="0" padding-top="10px" font-weight="bold">
+        <a style="color: #906d4f;
+                            font-weight:bold;
+                            font-family: 'Helvetica';  
+                            font-size: 12px; 
+                            text-decoration: none;
+                            letter-spacing: 0.5px;" href="http://www.designedbywoulfe.com/">designedbywoulfe.com</a>
+        </mj-text>
+
+       
+
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px" background-color="white">
+      <mj-column >
+          <mj-text font-size="10px" color="#906d4f" font-family="Times" letter-spacing="0px" padding-bottom="0" padding-top="2px">Woulfe is a BIID registered Interior Designer.<br>
+Designed by Woulfe LTD. Registered in England and Wales, Company Number 10256413</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
